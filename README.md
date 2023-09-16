@@ -31,3 +31,7 @@ Here's a curated list of resources I came across that deserved better than to be
 ## Course
 
 - [Spring Academy](https://spring.academy/)
+
+## Video
+
+- [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns)
